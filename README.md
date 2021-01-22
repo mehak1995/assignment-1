@@ -1,2 +1,2 @@
 # assignment-1
-quwstion 2 
+question 2 
